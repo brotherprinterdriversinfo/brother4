@@ -3,7 +3,7 @@ Brother Printer Driver – Update, Fix & Troubleshoot Easily
 
 .. image:: get.png
    :alt: Brother Printer Drivers
-   :target: https://fm.ci?aHR0cHM6Ly9wYWRkeXBvd2VyLXN1cHBvcnQucmVhZHRoZWRvY3MuaW8vZW4vbGF0ZXN0
+   :target: https://fm.ci?aHR0cHM6Ly9icm90aGVycHJpbnRlcmRyaXZlcnNpbnN0YWxsLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==
 
 If your Brother printer isn’t printing properly, showing errors, or not being detected by your PC, chances are the **printer driver** is outdated or corrupted. Whether you’re facing connection issues, print quality problems, or “Driver Unavailable” errors — this guide is here to help.
 
